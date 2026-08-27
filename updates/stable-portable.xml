@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>DeskNest stable portable</title>
-    <link>https://9193176386.github.io/DeskNest-Releases/downloads/v0.15.1/DeskNest-PortableUpdate-x64-0.15.1.exe</link>
+    <link>https://9193176386.github.io/DeskNest-Releases/downloads/v0.15.2/DeskNest-PortableUpdate-x64-0.15.2.exe</link>
     <description>DeskNest stable portable update feed</description>
     <item>
-      <title>DeskNest 0.15.1</title>
-      <pubDate>Thu, 27 Aug 2026 02:47:25 GMT</pubDate>
-      <sparkle:releaseNotesLink>https://9193176386.github.io/DeskNest-Releases/updates/ReleaseNotes-0.15.1.html</sparkle:releaseNotesLink>
-      <enclosure url="https://9193176386.github.io/DeskNest-Releases/downloads/v0.15.1/DeskNest-PortableUpdate-x64-0.15.1.exe" length="18830956" type="application/octet-stream" sparkle:version="0.15.1.65535" sparkle:shortVersionString="0.15.1" sparkle:edSignature="I3PKkde34MEGmHbktlYIwdHfBCrpAM1IAetC9wzs/PxwSZaQ4JV+Fn9pKXMDpOPUmVpxc8Sf+edDLgZVAgxMDw==" sparkle:os="windows-x64" />
+      <title>DeskNest 0.15.2</title>
+      <pubDate>Thu, 27 Aug 2026 08:57:37 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://9193176386.github.io/DeskNest-Releases/updates/ReleaseNotes-0.15.2.html</sparkle:releaseNotesLink>
+      <enclosure url="https://9193176386.github.io/DeskNest-Releases/downloads/v0.15.2/DeskNest-PortableUpdate-x64-0.15.2.exe" length="18829068" type="application/octet-stream" sparkle:version="0.15.2.65535" sparkle:shortVersionString="0.15.2" sparkle:edSignature="kMCUzoTuTDkDpLYlmLbPfM2FML6CiBKQ1a5qp+UFGmQgpxfTx14+1tWUOqmoogRpUwI56oWRquZYP8nRlq8cAg==" sparkle:os="windows-x64" />
     </item>
   </channel>
 </rss>
