@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DeskNest stable portable</title>
+    <link>https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.2/DeskNest-PortableUpdate-x64-0.16.2.exe</link>
+    <description>DeskNest stable portable update feed</description>
+    <item>
+      <title>DeskNest 0.16.2</title>
+      <pubDate>Sat, 05 Sep 2026 06:18:55 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://9193176386.github.io/DeskNest-Releases/updates/ReleaseNotes-0.16.2-zh-CN.html</sparkle:releaseNotesLink>
+      <enclosure url="https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.2/DeskNest-PortableUpdate-x64-0.16.2.exe" length="22839413" type="application/octet-stream" sparkle:version="0.16.2.65535" sparkle:shortVersionString="0.16.2" sparkle:edSignature="UmhOlvqokG+cYwvcDNvG7SFAlYtbXTaXrN/i56mdV6dlw7cLlBRPcnzMkzlDSWi/i5M6+1KCJGnMcGdSOlnhAQ==" sparkle:os="windows-x64" />
+    </item>
+  </channel>
+</rss>
