@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DeskNest stable installer</title>
+    <link>https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.3/DeskNest-Setup-x64-0.16.3.exe</link>
+    <description>DeskNest stable installer update feed</description>
+    <item>
+      <title>DeskNest 0.16.3</title>
+      <pubDate>Sat, 05 Sep 2026 13:56:55 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://9193176386.github.io/DeskNest-Releases/updates/ReleaseNotes-0.16.3-en.html</sparkle:releaseNotesLink>
+      <enclosure url="https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.3/DeskNest-Setup-x64-0.16.3.exe" length="22854917" type="application/octet-stream" sparkle:version="0.16.3.65535" sparkle:shortVersionString="0.16.3" sparkle:edSignature="z0fodIfz2qVNNCF/+S9RkOR+zAhvoaVsFSSRkAdG1dqvW6ih/usgSGZt53EhXgPkeTMmtFo6D7mBAFaqSzEjCQ==" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS /LANG=english" />
+    </item>
+  </channel>
+</rss>
