@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>DeskNest stable installer</title>
-    <link>https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.4/DeskNest-Setup-x64-0.16.4.exe</link>
+    <link>https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.5/DeskNest-Setup-x64-0.16.5.exe</link>
     <description>DeskNest stable installer update feed</description>
     <item>
-      <title>DeskNest 0.16.4</title>
-      <pubDate>Sun, 06 Sep 2026 15:11:47 GMT</pubDate>
-      <sparkle:releaseNotesLink>https://9193176386.github.io/DeskNest-Releases/updates/ReleaseNotes-0.16.4-zh-CN.html</sparkle:releaseNotesLink>
-      <enclosure url="https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.4/DeskNest-Setup-x64-0.16.4.exe" length="22869126" type="application/octet-stream" sparkle:version="0.16.4.65535" sparkle:shortVersionString="0.16.4" sparkle:edSignature="8Zp/jrXq2FIBRvTgbnD+D+U1GFNG9yE/CKua0dwQlmntN1aXQwIsrxEHz3vjZAJmOSqZVUR6A9PPHXuI0QqfCQ==" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS /LANG=chinesesimplified" />
+      <title>DeskNest 0.16.5</title>
+      <pubDate>Tue, 08 Sep 2026 00:12:28 GMT</pubDate>
+      <sparkle:releaseNotesLink>https://9193176386.github.io/DeskNest-Releases/updates/ReleaseNotes-0.16.5-zh-CN.html</sparkle:releaseNotesLink>
+      <enclosure url="https://9193176386.github.io/DeskNest-Releases/downloads/v0.16.5/DeskNest-Setup-x64-0.16.5.exe" length="22867729" type="application/octet-stream" sparkle:version="0.16.5.65535" sparkle:shortVersionString="0.16.5" sparkle:edSignature="mq6M5pIPqud0WRTBxEwSQlWthE0WGVvJC0VcIeif90LqKUD5fWnYgC4jdhfySFQ0rSXwxo2F3JcBigMJHtgsBQ==" sparkle:os="windows-x64" sparkle:installerArguments="/SILENT /SP- /NOICONS /LANG=chinesesimplified" />
     </item>
   </channel>
 </rss>
